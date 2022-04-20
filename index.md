@@ -8,7 +8,7 @@
 - [Twitter](https://twitter.com/muriliana)
 - [Github](https://github.com/muriliana)
 - [Instagram](https://www.instagram.com/muriliana/)
-- [Email](murilianabiomed@gmail.com)
+- [Email](mailto:murilianabiomed@gmail.com)
 
 ---
 
